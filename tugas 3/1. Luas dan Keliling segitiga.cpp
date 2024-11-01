@@ -2,6 +2,7 @@
 
 int main()
 {
+	
 	// Deklarasi variabel
 	float sisi_alas, tinggi, luas, keliling;
 	
